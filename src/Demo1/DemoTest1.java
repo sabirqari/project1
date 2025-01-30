@@ -10,5 +10,9 @@ public class DemoTest1 {
 		String lastName = "cena";
 		System.out.println("John");
 		System.out.println("cena");
+
+		int d = 20;
+		int g = 40;
+		System.out.println( c + g);
 	}
 }
